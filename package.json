@@ -1,0 +1,19 @@
+{
+  "name": "altheahanson.github.io",
+  "version": "1.0.0",
+  "description": "Portfolio made to showcase my projects, about me, and contact info. Feel free to use it and improve it!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/altheahanson/altheahanson.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/altheahanson/altheahanson.github.io/issues"
+  },
+  "homepage": "https://github.com/altheahanson/altheahanson.github.io#readme"
+}
