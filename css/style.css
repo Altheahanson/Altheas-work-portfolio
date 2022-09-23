@@ -420,15 +420,15 @@ body {
 .text-box {
   margin: 0 auto;
   height: auto;
-  /* overflow: hidden; */
+  overflow: hidden;
   padding: 0; }
   .text-box:hover .text-box__section--content {
     transition: all .25s linear;
     height: 0rem;
-    /* overflow: hidden;  */
+    overflow: hidden; 
   }
   .text-box__section {
-    /* overflow: hidden; */
+    overflow: hidden;
     border-bottom: 1px solid; }
     .text-box__section--title {
       font-weight: 700;
