@@ -38,7 +38,7 @@ function toggleFunction() {
 
 //Google Map API
 function myMap() {
-  myCenter = new google.maps.LatLng(43.1394, 80.2644);
+  myCenter = new google.maps.LatLng(43.1475871, -80.3442771);
     var mapOptions = {
       center: myCenter,
       zoom: 11,
